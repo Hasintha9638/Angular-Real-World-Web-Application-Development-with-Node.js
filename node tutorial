@@ -1,0 +1,8 @@
+>>this are using node.js configuration
+install express:
+ng add @nguniversal/express-engine
+
+To start rendering your app with Universal on your local system, use the following command.
+npm run dev:ssr
+
+npm install cors
